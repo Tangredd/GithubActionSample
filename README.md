@@ -1,2 +1,1 @@
-# GithubActionSample
-Git hub with single yml
+# java-app
